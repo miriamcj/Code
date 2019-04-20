@@ -1,0 +1,80 @@
+{
+  "StudentProduct": [
+  {
+  
+  "StudentProduct":{
+  "id":1
+  "name": 149.00
+  "description": iPod Nano
+  "price": 399
+  }
+  
+  "StudentProduct":{
+  "id":2
+  "name": Michael Kors
+  "description": Purse
+  "price":$389.00
+  }
+  
+  "StudentProduct":{
+  "id":3
+  "name": Blade
+  "description": Helicopter
+  "price":$469.00
+  }
+  
+  "StudentProduct":{
+  "id":4
+  "name": Split
+  "description": Novel
+  "price": $14.99
+  }
+  
+  "StudentProduct":{
+  "id":5
+  "name": Chapagetti 
+  "description": Chajang Noodle
+  "price": $25.44
+  }
+  
+  "StudentProduct":{
+  "id":6
+  "name": Christian Louboutin
+  "description":Shoes
+  "price":$625.00
+  }
+  
+  "StudentProduct":{
+  "id":7
+  "name": Chanel
+  "description": Tweed Suit
+  "price":$3,000
+  }
+  
+  "StudentProduct":{
+  "id":8
+  "name": Behringer
+  "description":Headphones
+  "price":$419.99
+  }
+  
+  "StudentProduct":{
+  "id":9
+  "name": Lone Bicyle
+  "description":Painting
+  "price":$250.00
+  }
+  
+  "StudentProduct":{
+  "id":10
+  "name":Chelsea Boot
+  "description":Boots
+  "price":$70.88
+  }
+  
+  "StudentProduct":{
+  "id":11
+  "name": Million Dollar Highway 
+  "description":Canvas Painting 
+  "price":$59.99
+  }
