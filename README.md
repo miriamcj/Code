@@ -1,2 +1,2 @@
 # Code
-Code from classes projects
+Code written in school
